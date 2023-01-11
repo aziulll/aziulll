@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luíza Barbosa</h1>
 <h3 align="center">Sou estudante de desenvolvimento brasileira 🟡🟢🔵</h3>
 
-- 🌱 I’m currently learning **JavaScript, Kotlin, Java, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, Angular, Java, HTML, CSS**
 
 - 📫 How to reach me **rochaluizabarbosa@gmail.com**
 

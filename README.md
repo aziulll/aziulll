@@ -32,7 +32,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![VUE](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vue&labelColor=0D1117)&nbsp;
 
-<img src="https://raw.githubusercontent.com/aziulll/aziulll/output/snake.svg" alt="Snake animation" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b225e5&height=120&section=footer"/>****
 

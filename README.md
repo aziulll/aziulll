@@ -1,6 +1,6 @@
 Olá, me chamo **Luíza Barbosa**!
 
-💻 Desenvolvedora focada em **PHP (Laravel)**, **JavaScript (Vue.js & NestJs)** e tecnologias modernas para web.  
+💻 Desenvolvedora de Software 
 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Descomplica Digital**.  
 📊 Apaixonada por desenvolvimento web, criação de APIs eficientes e práticas de segurança para aplicações robustas.
 
@@ -14,6 +14,7 @@ Olá, me chamo **Luíza Barbosa**!
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=c#&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;

@@ -12,27 +12,34 @@ Sempre aprendendo e explorando novas tecnologias
 
 ---
 
-## Stack Tecnológica
+### Stack Tecnológica
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
-![NestJS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
+<div>
+ <p>
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=php,nodejs,typescript,laravel,nestjs,mysql,postgres,mongodb,supabase,redis" />
+   </a>
+</p>
+</div>
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+### **DevOps & Cloud**
+<div>
+  <p>
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=docker,linux,bash,arch,aws,rabbitmq,kafka,grafana,prometheus,kubernetes,terraform,postman" />
+   </a>
+  </p>
+</div>
 
-### **Sistemas Operacionais**
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+### **Versionamento & Colaboração**
+<div>
+  <p>
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=github,bitbucket,gitlab" />
+   </a>
+  </p>
+
+</div>
 
 ---
 
@@ -48,19 +55,18 @@ Sempre aprendendo e explorando novas tecnologias
 
 ---
 
-## 🎯 Áreas de Interesse
+## Áreas de Interesse
 
 ```javascript
 const luiza = {
-    areas: ["Web Development", "API Development", "Database Design", "Software Architecture"],
+    areas: ["Backend Development", "API Development", "Database Design", "Software Architecture"],
     currentFocus: "Building scalable and secure applications",
-    funFact: "I believe clean code is digital poetry! ✨"
 }
 ```
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 <div align="center">
 
@@ -73,7 +79,7 @@ const luiza = {
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **Obrigada pela visita! 🚀**
 

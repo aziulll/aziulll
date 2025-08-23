@@ -1,17 +1,14 @@
-# Olá! Eu sou a Luíza Barbosa 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=b225e5&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindos+ao+meu+perfil!;Desenvolvedora+Full-Stack;Estudante+de+Análise+e+Desenvolvimento;Apaixonada+por+tecnologia+e+inovação!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=b225e5&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+Luíza+Barbosa!;Desenvolvedora+Backend**;Estudante+de+Análise+e+Desenvolvimento;Apaixonada+por+tecnologia+e+inovação!" alt="Typing Animation">
 </div>
 
 ## Sobre mim
 
 **Desenvolvedora de Software** apaixonada por criar soluções
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Descomplica Digital**  
-📊 Especialista em desenvolvimento web, APIs RESTful e práticas de segurança  
-🌱 Sempre aprendendo e explorando novas tecnologias  
-⚡ **Fun fact**: Acredito que código limpo é poesia digital!
+Cursando **Análise e Desenvolvimento de Sistemas** na **Descomplica Digital**  
+Especialista em desenvolvimento web, APIs RESTful e práticas de segurança  
+Sempre aprendendo e explorando novas tecnologias  
 
 ---
 

@@ -43,18 +43,6 @@ Sempre aprendendo e explorando novas tecnologias
 
 ---
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aziulll&show_icons=true&count_private=true&hide_border=true&title_color=b225e5&icon_color=b225e5&text_color=c9d1d9&bg_color=0d1117&custom_title=Luíza's%20GitHub%20Stats" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziulll&layout=compact&hide_border=true&title_color=b225e5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aziulll&theme=dark&hide_border=true&background=0D1117&stroke=b225e5&ring=b225e5&fire=b225e5&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=b225e5&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</div>
-
----
-
 ## Áreas de Interesse
 
 ```javascript

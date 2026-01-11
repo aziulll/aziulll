@@ -1,18 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=b225e5&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+Luíza+Barbosa!;Desenvolvedora+Backend**;Apaixonada+por+tecnologia+e+inovação!" alt="Typing Animation">
-</div>
 
-## Sobre mim
+## About Me
 
-**Desenvolvedora de Software** apaixonada por criar soluções
-
-Formada em **Análise e Desenvolvimento de Sistemas** na **Descomplica Digital**  
-Focada em desenvolvimento web, APIs RESTful e práticas de segurança  
-Sempre aprendendo e explorando novas tecnologias  
+**Software Developer** passionate about creating solutions  
+Graduated in **Systems Analysis and Development** at **Descomplica Digital**  
+Focused on web development, RESTful APIs, and security practices  
+Always learning and exploring new technologies
 
 ---
 
-### Stack Tecnológica
+### Tech Stack
 
 <div>
  <p>
@@ -31,7 +27,7 @@ Sempre aprendendo e explorando novas tecnologias
   </p>
 </div>
 
-### **Versionamento & Colaboração**
+### **Version Control & Collaboration**
 <div>
   <p>
    <a href="https://skillicons.dev">
@@ -43,18 +39,18 @@ Sempre aprendendo e explorando novas tecnologias
 
 ---
 
-## Áreas de Interesse
+## Areas of Interest
 
 ```javascript
 const luiza = {
-    areas: ["Backend Development", "API Development", "Database Design", "Software Architecture"],
-    currentFocus: "Building scalable and secure applications",
+  areas: ["Backend Development", "API Development", "Database Design", "Software Architecture"],
+  currentFocus: "Building scalable and secure applications",
 }
 ```
 
 ---
 
-## Vamos nos conectar?
+## Let's Connect?
 
 <div align="center">
 
@@ -69,8 +65,7 @@ const luiza = {
 
 ### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Obrigada pela visita! 🚀**
-
+**Thanks for visiting! 🚀**
 <img src="https://komarev.com/ghpvc/?username=aziulll&color=b225e5&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
